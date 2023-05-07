@@ -4,7 +4,7 @@
 
 <div>
     <img height="180em" alt="" src="https://github-readme-stats.vercel.app/api?username=Ramom-Gomes&show_icons=true&theme=dracula&count_private=true" />
-    <img height="180em" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramom-Gomes&layout=compact" />
+    <img height="180em" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramom-Gomes&layout=compact&theme=dracula" />
 </div>
 
 ## Tecnologias que eu uso no meu dia
